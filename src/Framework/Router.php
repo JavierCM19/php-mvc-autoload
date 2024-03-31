@@ -1,4 +1,7 @@
 <?php
+
+namespace Framework;
+
 //router
 class Router {
 
